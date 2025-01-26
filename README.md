@@ -23,8 +23,5 @@ Manages user follow relationships, allowing users to follow or unfollow other us
 Usage
 To restore this database, use the following command:
 
-bash
-Copy
-Edit
 psql -U your_username -d your_database < instagram_database.sql
 Replace your_username and your_database with your PostgreSQL credentials.
